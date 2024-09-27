@@ -6,4 +6,4 @@
 - 🔭 I’m currently working on deep video understanding, medical image analysis, emotion recognition.
 - 🌱 I’m currently learning new things.
 - 💬 Ask me about my projects/repos.
-- 📫 How to reach me: 📨 donhutai (at) gmail.com / https://dntai.vneasy.net
+- 📫 How to reach me: 📨 tranmyyen43@gmail.com / https://dntai.vneasy.net
